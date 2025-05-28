@@ -31,23 +31,3 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,ts,nextjs,react,nodejs,tailwind,mysql,vercel,linux,docker,git,github,bash,html,css,vscode,figma" />
   </a>
 </p>
-
----
-
-### 📊 My Stats
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Weq511762338&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weq511762338&theme=radical" alt="Top Languages">
-</div>
-
-<div align="center"> 
-  <img src="https://leetcard.jacoblin.cool/WelchJ?theme=unicorn&ext=contest&font=ruthie" alt="Leetcode Card">
-</div>
-
-<div align="center"> 
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=WelchJ" alt="Codeforces Stats">
-</div>
