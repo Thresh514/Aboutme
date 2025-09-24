@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tony (Jiayong Tu)
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/Thresh514/Aboutme/banner.png" alt="Hello world">
 
 ---
 
