@@ -14,15 +14,15 @@
 
 ### Selected Projects  
 
-- **Real-Time Lottery System – BUCSSA**  
+- [**Real-Time Lottery System – BUCSSA**](https://lottery.bucssa.org/)
   Next.js + Express.js + Redis + Socket.IO; scaled to thousands of concurrent users.  
   Deployed on self-managed Linux server with Nginx + systemd + Certbot; conducted flood testing and optimized pub/sub.  
 
-- **BioByte – Educational Resource Integration Platform**  
+- [**BioByte – Educational Resource Integration Platform**](https://www.biobyte.shop/) 
   Full-stack Next.js + TailwindCSS + MySQL on Alibaba Cloud.  
   Includes RAG-based past paper retrieval (FAISS vector search) and AI tutor for real-time Q&A.  
 
-- **Afora – AI-Powered Team Management Platform**  
+- [**Afora – AI-Powered Team Management Platform**](https://afora.vercel.app/)
   Tech co-founder. Built on Next.js + Firebase Auth + Firestore (Vercel).  
   Designed team compatibility engine with structured JSON schemas and GPT-driven prompt workflows.  
 
