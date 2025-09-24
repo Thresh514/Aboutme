@@ -4,15 +4,15 @@
 
 ### 👨‍💻 About Me  
 
-- 🇨🇳 CS Junior @ Boston University (B.A. Computer Science, Minor in Biology)  
-- 🧠 Passionate about building scalable web apps & AI-enhanced tools — especially for education and student communities  
-- 🛠️ Full-stack developer (Next.js, Tailwind, MySQL, Express.js) with hands-on Linux server deployment (Nginx, systemd, HTTPS)  
-- 🤖 Currently working on Retrieval-Augmented Generation (RAG) features and machine-learning pipelines through my research assistant role  
-- 🌍 Love leading student-driven projects & mentoring peers  
+- CS Junior @ Boston University (B.A. Computer Science, Minor in Biology)  
+- Passionate about building scalable web apps & AI-enhanced tools — especially for education and student communities  
+- Full-stack developer (Next.js, Tailwind, MySQL, Express.js) with hands-on Linux server deployment (Nginx, systemd, HTTPS)  
+- Currently working on Retrieval-Augmented Generation (RAG) features and machine-learning pipelines through my research assistant role  
+- Love leading student-driven projects & mentoring peers  
 
 ---
 
-### 🚀 Selected Projects  
+### Selected Projects  
 
 - **Real-Time Lottery System – BUCSSA**  
   Next.js + Express.js + Redis + Socket.IO; scaled to thousands of concurrent users.  
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
 
 ---
 
-### 🌱 What I’m Currently Working On  
+### What I’m Currently Working On  
 
 - Adding Retrieval-Augmented Generation (RAG) to education-focused web apps  
 - Building and evaluating machine-learning pipelines as a Research Assistant  
