@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Tony (Jiayong Tu)
-
-<img src="https://github.com/Thresh514/Aboutme/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/Thresh514/Aboutme/main/banner.png" alt="Hello world" width="100%">
 
 ---
 
