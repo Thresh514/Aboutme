@@ -57,5 +57,4 @@
 ### 📫 Connect with Me  
 
 - [LinkedIn](https://www.linkedin.com/in/jiayongtu)  
-- [GitHub](https://github.com/Thresh514)  
 - Email: tonytudaodao@gmail.com  
